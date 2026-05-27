@@ -48,7 +48,7 @@
       "deal_size_annual_usd": 290000,
       "tier": "Enterprise",
       "term_years": 1,
-      "discount_from_list": 0.10,
+      "discount_from_list": 0.1,
       "payment_terms": "Annual upfront, Net 30",
       "primary_competitors": ["Snowflake"],
       "won_on": "PoC success",

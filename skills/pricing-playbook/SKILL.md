@@ -7,11 +7,11 @@ description: BTS-Synthetic Deal Desk pricing rules. Use whenever recommending co
 
 ## List prices (Enterprise Data Platform)
 
-| Tier | Annual list | What's included |
-| --- | --- | --- |
-| Starter | $120K | Up to 10TB ingest, 5 users, business hours support |
-| Growth | $360K | Up to 50TB ingest, 25 users, 24/5 support, 99.9% SLA |
-| Enterprise | $720K base | Unlimited ingest, unlimited users, 24/7 support, 99.95% SLA, dedicated CSM |
+| Tier       | Annual list | What's included                                                            |
+| ---------- | ----------- | -------------------------------------------------------------------------- |
+| Starter    | $120K       | Up to 10TB ingest, 5 users, business hours support                         |
+| Growth     | $360K       | Up to 50TB ingest, 25 users, 24/5 support, 99.9% SLA                       |
+| Enterprise | $720K base  | Unlimited ingest, unlimited users, 24/7 support, 99.95% SLA, dedicated CSM |
 
 For deals above $500K, Enterprise is the only sensible tier.
 
@@ -20,13 +20,14 @@ For deals above $500K, Enterprise is the only sensible tier.
 Discount is from list. **Maximum** discount by deal size:
 
 | Annual deal size | Standard max discount | Strategic max discount |
-| --- | --- | --- |
-| < $250K | 10% | 15% |
-| $250K – $500K | 15% | 20% |
-| $500K – $1M | 20% | 25% |
-| > $1M | 25% | 30% |
+| ---------------- | --------------------- | ---------------------- |
+| < $250K          | 10%                   | 15%                    |
+| $250K – $500K    | 15%                   | 20%                    |
+| $500K – $1M      | 20%                   | 25%                    |
+| > $1M            | 25%                   | 30%                    |
 
 "Strategic" requires VP Sales sign-off, only granted when one or more of:
+
 - Brand-name logo in a target vertical (we're targeting financial services, life sciences, government this year)
 - Multi-year contract (3+ years committed)
 - Reference customer agreement signed

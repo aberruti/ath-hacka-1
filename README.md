@@ -16,9 +16,9 @@ You're going to build exactly that, in 60 minutes, around a Deal Desk scenario. 
 You need a workspace API key on the Console (multi-agent is currently in research preview — your workspace may need to be granted access).
 
 ```bash
-cd 03-specialist-swarm
+cd hackaton-claude
 pip install -r requirements.txt
-export ANTHROPIC_API_KEY="sk-ant-..."
+export ANTHROPIC_API_KEY="your-api-key-here"
 ```
 
 ## Pick a scenario card
@@ -54,6 +54,7 @@ See [`stretch-goals.md`](./stretch-goals.md). The big ones:
 ## Two-minute demo
 
 Two-monitor setup:
+
 - **Monitor 1:** the events stream from the coordinator session, scrolling. You'll see `session.thread_created` × 4, parallel `running`, then `agent.thread_message_received` flowing back. The visible parallelism IS the demo.
 - **Monitor 2:** open `outputs/proposal-response.docx`. Real document, branded, ready to send.
 

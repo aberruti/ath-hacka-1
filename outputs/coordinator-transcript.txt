@@ -1,0 +1,20 @@
+I have python-docx available. Let me delegate to all four specialists in parallel now — the RFP deadline is real.All four delegated in parallel. Ending turn — awaiting responses.Solid legal read. Awaiting the other three specialists.Strong technical fit. Awaiting Pricing and Competitive Intel.Good intel. Awaiting Pricing.All four specialists in. Synthesizing now and submitting to the Critic.Submitted to Critic. Awaiting verdict.Good critique. Revising and resubmitting.Awaiting Critic v2 verdict.SHIP IT. I'll incorporate the non-blocking 3-year TCO line and produce the branded Word document.Document built successfully. Here's the wrap-up:
+
+## Deal Desk: Acme Corp RFP — Complete
+
+**Deliverable:** `/mnt/session/outputs/BTS-Synthetic_Proposal_AcmeCorp_EDP.docx` (branded Word document, 9 sections, 15 tables)
+
+**Process run:**
+1. **Read the RFP** — identified the four contractual deal-breakers, the 35% discount demand, MFN clause, Net 90, and the four-way competitive set.
+2. **Delegated in parallel** to all four specialists with full RFP context and narrow briefs.
+3. **Synthesised** four reports into a single proposal.
+4. **Critic loop:** v1 came back REVISE with five substantive issues (disclosed discount ceiling, weak Fabric attack, thin security story, missing PS/support, inconsistent migration timeline). v2 came back **SHIP IT**.
+5. **Built the branded docx** with BTS-Synthetic navy/teal palette, branded header/footer, cover page, callout boxes, and properly formatted tables.
+
+**Key positions taken in the proposal:**
+- **Pricing:** $680K/yr (20% off list of $850K); 3-year fixed at $2.04M; renewal CPI-capped at +5%. No second discount number disclosed — leverage preserved.
+- **TCO transparency:** Year 1 ~$1.15M all-in; 3-year ~$2.51M (added the Critic's non-blocking suggestion).
+- **Contract counter-positions** for all four legal deal-breakers (liability cap at 24mo fees, IP licence-back, subprocessor list with notice, SLA credits with cumulative-failure termination only) plus the red-lines (Net 60, 90-day termination, no MFN, audit 2×/yr with notice).
+- **Competitive framing** focused on governance maturity, Iceberg parity, multi-cloud optionality, and 5-year TCO — avoided the unsafe Fabric latency claim.
+- **Migration:** honest framing — 16 weeks to first production + Power BI cutover; phased Teradata waves through 2027.
+- **PoC offer:** 3 weeks / $45K, credited to Year 1.

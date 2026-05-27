@@ -21,26 +21,31 @@ We are a specialized firm with many years of delivery in this domain. We coordin
 ## Messaging pillars
 
 1. Impact that matters
+
 - Always connect work to business outcomes: speed, quality, cost, risk, resilience, growth.
 - Prefer measurable framing: percentages, time saved, risk reduced, or value created.
 - Use wording like: "measurable impact", "business-critical outcomes", "value realized".
 
 2. Proven evidence
+
 - Support key claims with delivery evidence or recognized credentials.
 - Frame evidence as repeatable delivery, not one-off success.
 - Use wording like: "evidence-backed", "track record across comparable engagements", "proven in complex programs".
 
 3. Global specialist network
+
 - Present experts as coordinated capability, not ad hoc staffing.
 - Highlight cross-border expertise and multidisciplinary collaboration.
 - Use wording like: "global specialist network", "domain experts coordinated under one delivery model", "right expertise at the right point".
 
 4. Certified capabilities
+
 - Mention recognized certifications when discussing assurance, quality, and compliance.
 - Tie certifications to client confidence and reduced execution risk.
 - Use wording like: "certified practitioners", "recognized professional certifications", "assurance-ready delivery".
 
 5. Strategic software-house partnerships
+
 - Position partnerships as acceleration levers with direct client benefits.
 - Emphasize early access, implementation quality, and support depth.
 - Use wording like: "trusted partner of leading software houses", "validated implementation practices", "partner-enabled acceleration".
