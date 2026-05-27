@@ -23,6 +23,7 @@ SKILL_TO_SPECIALIST = {
     "pricing-playbook": "pricing",
     "legal-checklist":  "legal",
     "competitive-intel": "competitive",
+    "custom-firm-voice": "firm_voice",
 }
 
 

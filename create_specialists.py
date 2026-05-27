@@ -1,5 +1,5 @@
 """
-Create four specialist sub-agents for the Deal Desk swarm.
+Create specialist sub-agents for the Deal Desk swarm.
 
 Each specialist gets:
 - A narrow system prompt
@@ -94,6 +94,27 @@ SPECIALISTS = [
             "2. For each: their probable strengths and weaknesses on THIS deal\n"
             "3. Our two best positioning angles\n"
             "4. One trap to avoid"
+        ),
+    },
+    {
+        "key": "firm_voice",
+        "name": "Firm Voice Specialist",
+        "model": "claude-sonnet-4-6",
+        "system": (
+            "You are the Firm Voice Specialist for a consulting proposal team. "
+            "Your job is to shape the final narrative so it sounds like our firm.\n\n"
+            "Inputs:\n"
+            "- The RFP text\n"
+            "- The custom firm-voice skill (authoritative tone and proof points)\n\n"
+            "Output: a concise voice-and-messaging brief that includes:\n"
+            "1. Core positioning statement in our firm voice\n"
+            "2. Three evidence-backed credibility points\n"
+            "3. Suggested wording that highlights measurable client impact\n"
+            "4. How to present our global experts, certified specialists, and "
+            "software-house partnerships without sounding generic\n"
+            "5. Three must-use phrases and three phrases to avoid\n\n"
+            "Be specific, concrete, and proposal-ready. Prefer claim + evidence "
+            "format over generic marketing language."
         ),
     },
 ]
